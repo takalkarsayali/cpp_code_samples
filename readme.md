@@ -1,2 +1,1 @@
-# Hey there...
-## Welcome to *_cpp_code_samples_*
+# *_cpp_code_samples_*
